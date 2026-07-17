@@ -1,0 +1,31 @@
+Question,Answer,Category
+What is Artificial Intelligence?,Artificial Intelligence is the simulation of human intelligence by machines.,AI
+What are the applications of AI?,AI is used in healthcare finance robotics education and automation.,AI
+What are the goals of Artificial Intelligence?,The goal of AI is to create systems that can learn reason and solve problems.,AI
+What are intelligent agents?,Intelligent agents are systems that perceive their environment and take actions.,AI
+What is weak AI?,Weak AI is designed to perform specific tasks such as voice assistants and recommendation systems.,AI
+What is strong AI?,Strong AI refers to machines with human-level intelligence.,AI
+What is Artificial General Intelligence?,AGI is a theoretical AI system that can perform any intellectual task like humans.,AI
+What is Machine Learning?,Machine Learning allows computers to learn patterns from data without explicit programming.,Machine Learning
+What are the types of Machine Learning?,The main types are supervised learning unsupervised learning and reinforcement learning.,Machine Learning
+What is supervised learning?,Supervised learning uses labeled data to train a model.,Machine Learning
+What is unsupervised learning?,Unsupervised learning finds hidden patterns in unlabeled data.,Machine Learning
+What is reinforcement learning?,Reinforcement learning trains an agent using rewards and penalties.,Machine Learning
+What is a machine learning algorithm?,A machine learning algorithm is a method used to learn patterns from data.,Machine Learning
+What is training data?,Training data is used to teach a machine learning model.,Machine Learning
+What is testing data?,Testing data is used to evaluate model performance.,Machine Learning
+What is validation data?,Validation data helps tune and improve machine learning models.,Machine Learning
+What is overfitting?,Overfitting happens when a model learns training data too closely and performs poorly on new data.,Machine Learning
+What is underfitting?,Underfitting occurs when a model cannot learn enough patterns from data.,Machine Learning
+What is feature engineering?,Feature engineering is the process of selecting and creating useful input features.,Machine Learning
+What is model accuracy?,Accuracy measures how many predictions are correct compared to total predictions.,Machine Learning
+What is Deep Learning?,Deep Learning uses multi-layer neural networks to learn complex patterns.,Deep Learning
+What is a neural network?,A neural network is a computing model inspired by the human brain.,Deep Learning
+What is an artificial neuron?,An artificial neuron is a basic unit of a neural network that processes information.,Deep Learning
+What is CNN?,CNN is a neural network mainly used for image processing and computer vision.,Deep Learning
+What is RNN?,RNN is a neural network designed for sequential data such as text and speech.,Deep Learning
+What is LSTM?,LSTM is a type of RNN that can remember long-term information.,Deep Learning
+What is a GAN?,GAN is a deep learning model used to generate new data samples.,Deep Learning
+What is Natural Language Processing?,NLP enables computers to understand and process human language.,NLP
+What are NLP applications?,NLP applications include chatbots translation sentiment analysis and speech recognition.,NLP
+What is tokenization?,Tokenization breaks text into smaller units called tokens.,NLP

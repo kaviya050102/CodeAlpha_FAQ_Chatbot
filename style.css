@@ -1,0 +1,363 @@
+/* ==============================
+   MAIN APPLICATION
+================================ */
+
+.stApp {
+
+    background-color: #050816;
+
+    font-family: "Segoe UI", sans-serif;
+
+}
+
+
+/* All default text */
+
+p, 
+span, 
+label {
+
+    color: #FFFFFF !important;
+
+    font-size: 18px !important;
+
+}
+
+
+
+/* ==============================
+   HEADER
+================================ */
+
+
+.title {
+
+    text-align: center;
+
+    font-size: 52px !important;
+
+    font-weight: 900;
+
+    color: #00D9FF !important;
+
+    text-shadow:
+    0 0 15px #00D9FF;
+
+}
+
+
+
+.subtitle {
+
+    text-align:center;
+
+    font-size:22px !important;
+
+    font-weight:bold;
+
+    color:#FFFFFF !important;
+
+    background:
+    rgba(0,0,0,0.5);
+
+    padding:12px;
+
+    border-radius:15px;
+
+}
+
+
+
+/* ==============================
+   AVATAR DESIGN
+================================ */
+
+
+.avatar-box img {
+
+    border-radius:50%;
+
+    border:5px solid #00D9FF;
+
+    box-shadow:
+
+    0 0 25px #00D9FF;
+
+}
+
+
+
+/* ==============================
+   SIDEBAR
+================================ */
+
+
+section[data-testid="stSidebar"] {
+
+    background:
+
+    linear-gradient(
+    180deg,
+    #FFFFFF,
+    #E5E7EB
+    );
+
+}
+
+
+
+section[data-testid="stSidebar"] * {
+
+    color:#000000 !important;
+
+    font-size:18px !important;
+
+}
+
+
+
+section[data-testid="stSidebar"] h1,
+section[data-testid="stSidebar"] h2 {
+
+    color:#2563EB !important;
+
+    font-size:28px !important;
+
+}
+
+
+
+/* ==============================
+   USER CHAT MESSAGE
+================================ */
+
+
+.user-message {
+
+
+    background:
+
+    linear-gradient(
+    135deg,
+    #2563EB,
+    #1D4ED8
+    );
+
+
+    color:white !important;
+
+
+    font-size:20px !important;
+
+
+    font-weight:600;
+
+
+    padding:22px;
+
+
+    border-radius:20px;
+
+
+    margin:
+
+    15px 0 15px 100px;
+
+
+    box-shadow:
+
+    0 5px 20px
+    rgba(37,99,235,0.4);
+
+
+}
+/* ==============================
+   AI CHAT MESSAGE - DARK THEME
+================================ */
+
+.bot-message {
+
+    background: #111827 !important;   /* Dark black card */
+
+    color: #FFFFFF !important;
+
+    font-size: 20px !important;
+
+    font-weight: 500;
+
+    padding: 25px;
+
+    border-radius: 20px;
+
+    margin: 15px 100px 15px 0;
+
+    border-left: 7px solid #00D9FF;
+
+    box-shadow:
+    0 5px 20px rgba(0,217,255,0.25);
+
+}
+
+
+/* AI Assistant heading */
+
+.assistant-title {
+
+    color: #00D9FF !important;
+
+    font-size: 26px !important;
+
+    font-weight: bold;
+
+}
+
+
+/* AI Answer text */
+
+.bot-answer {
+
+    color: #FFFFFF !important;
+
+    font-size: 20px !important;
+
+    line-height: 1.6;
+
+}
+
+/* ==============================
+   CHAT INPUT BOX
+================================ */
+
+
+.stChatInputContainer {
+
+
+    background:white !important;
+
+
+    border-radius:20px;
+
+
+    border:2px solid #00D9FF;
+
+
+}
+
+
+
+.stChatInput input {
+
+
+    background:white !important;
+
+
+    color:black !important;
+
+
+    font-size:20px !important;
+
+
+    font-weight:600;
+
+
+}
+
+
+
+.stChatInput input::placeholder {
+
+
+    color:#555555 !important;
+
+
+    font-size:18px !important;
+
+
+}
+
+
+
+/* ==============================
+   BUTTONS
+================================ */
+
+
+.stButton button {
+
+
+    background:
+
+    linear-gradient(
+    135deg,
+    #00D9FF,
+    #8B5CF6
+    );
+
+
+    color:white !important;
+
+
+    font-size:18px !important;
+
+
+    font-weight:bold;
+
+
+    border-radius:15px;
+
+
+    padding:
+
+    12px 30px;
+
+
+    border:none;
+
+
+}
+
+
+
+.stButton button:hover {
+
+
+    transform:scale(1.05);
+
+
+    box-shadow:
+
+    0 0 20px #00D9FF;
+
+
+}
+
+
+
+/* ==============================
+   DIVIDER
+================================ */
+
+
+hr {
+
+    border-color:#00D9FF !important;
+
+}
+
+
+
+/* ==============================
+   FOOTER
+================================ */
+
+
+.stCaption {
+
+
+    color:white !important;
+
+
+    font-size:16px !important;
+
+
+}
